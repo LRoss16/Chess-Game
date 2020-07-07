@@ -1,0 +1,16 @@
+Uppercase = White	Lowercase = Black
+Final State of the Board
+r p E E E E P R 
+n p E E E P E N 
+b p E E E E P B 
+q p E E E E P Q 
+k p E E E E P K 
+b p E E E P E B 
+n p E E E P E N 
+r p E E E E P R 
+History of Moves
+P(2,7) -> (2,6)
+P(6,7) -> (6,6)
+P(7,7) -> (7,6)
+Uppercase = White	Lowercase = Black
+
